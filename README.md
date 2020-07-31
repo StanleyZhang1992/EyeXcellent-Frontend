@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
 # EyeXcellent-Frontend
-This project contains the code for "EyeXcellent's" front-end. You could go to "https://eyexcellent.herokuapp.com/" to try it out!
+This project contains the code for "EyeXcellent's" front-end. You could go to "https://eyexcellent.herokuapp.com/" to try it out.
 >>>>>>> aeff5a0b645b964038704074bb5c0fd38e1cf525
